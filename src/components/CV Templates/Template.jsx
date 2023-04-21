@@ -1,6 +1,6 @@
 import React from 'react'
 import {Row,Col, Image, Space} from 'antd'
-import pic from './20230405_202936.jpg'
+//import pic from './20230405_202936.jpg'
 
 
 const createList=(details)=>{
@@ -35,6 +35,7 @@ export default function Template() {
   
   return (
     <>
+    
     <Row>
 
         <Col span={5} style={{backgroundColor:"black"}}>
